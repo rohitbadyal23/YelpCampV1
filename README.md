@@ -1,0 +1,1 @@
+YelpCamp is a web application made with MERN Stack. MongoDB, ExpressJS, ReactJS, NodeJS. This application allows users to sign-up/login, do CRUD base task on campgrounds and comment on other peoples campgrounds.
